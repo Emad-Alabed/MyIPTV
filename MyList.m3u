@@ -11,5 +11,5 @@ https://list.iptvcat.com/my_list/s/a9585ac8728e0b2026bb35e45a51dc62.m3u8
 #EXTINF:-1 tvg-id=",Al Jaseera Documentary (720p)" tvg-logo="https://i.imgur.com/bEE2WsH.png" group-title="Documentray",Al Jaseera Documentary (1080p)
 https:\\live-hls-web-ajd.getaj.net\AJD\index.m3u8
 
-#EXTINF:-1 tvg-id=",Al Jaseera Documentary (1080p)" tvg-logo="https://i.imgur.com/bEE2WsH.png" group-title="Documentray",Al Jaseera Documentary (1080p)
+#EXTINF:-1 tvg-id=",DW (1080p)" tvg-logo="https://i.imgur.com/bEE2WsH.png" group-title="Documantry",DW (HD)
 https:\\dwamdstream103.akamaized.net\hls\live\2015526\dwstream103\index.m3u8
