@@ -10,3 +10,7 @@ https://list.iptvcat.com/my_list/s/a9585ac8728e0b2026bb35e45a51dc62.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeeraDocumentary" tvg-logo="https://i.imgur.com/iAA3jFG.png" group-title="Documentry",Al Jazeera Documentary
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+
+#EXTINF:-1 tvg-id="DW Arabic" tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="Documentry",DW Arabic (1080p)
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
