@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="Qurran" tvg-logo="https://i.imgur.com/rnGmc8a.png" group-title="Religious",Qurran (HD)
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 
+#EXTINF:-1 tvg-id="Makkah" tvg-logo="https://i.imgur.com/BHRnWHG.png" group-title="Religious",Makkah (HD)
+https:\\media2.streambrothers.com:1936\8122\8122\playlist.m3u8
+
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV" tvg-logo="https://i.imgur.com/EU98NRL.png" group-title="Religious",Al Sunnah Al Nabawiyah TV (1080p)
 https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 
