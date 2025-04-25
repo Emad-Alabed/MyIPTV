@@ -19,7 +19,3 @@ https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 
 #EXTINF:-1 tvg-id="DW Arabic" tvg-logo="https://i.imgur.com/fGOTYK0.png" group-title="Documentry",DW Arabic (1080p)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="",National Geographic Abu Dhabi
-http://162.210.195.121:8080/NationalGeoAD/tracks-v1a1/mono.m3u8
