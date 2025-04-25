@@ -19,3 +19,6 @@ https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 
 #EXTINF:-1 tvg-id="DW Arabic" tvg-logo="https://i.imgur.com/fGOTYK0.png" group-title="Documentry",DW Arabic (1080p)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC" tvg-logo="https://i.imgur.com/271YBK3.png" group-title="Documentry",MBC1 (1080p)
+https:\\mbc-1-usa-ak.akamaized.net\out\v1\8c1ce74bfd0743aab1026ef5b2aecfa4\index.m3u8
